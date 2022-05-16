@@ -16,7 +16,7 @@ build_grid() {
     done
 }
 
-# Check if there's a cell at the specified location
+# Check if there's a cell at the specified location 
 # $1 x
 # $2 y
 # $3 width
